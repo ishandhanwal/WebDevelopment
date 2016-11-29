@@ -1,0 +1,4 @@
+mail@aremes.at
+mkdir - create a new directory in the navigation directory
+cd - navigate to the directory
+cd .. - go one step bellow in the directory structure
